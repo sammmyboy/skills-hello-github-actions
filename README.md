@@ -8,7 +8,7 @@ _Create and run a GitHub Actions workflow._
 
 
 ## Step 4: Merge your workflow file
-## Update changes
+## Update
 
 ## Step 5: Trigger the workflow
 
